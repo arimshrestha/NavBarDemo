@@ -1,0 +1,18 @@
+.active>a {
+    background: #41af8b !important; 
+    color: white !important;
+}
+
+.nav-tabs.active > a > span{
+    color: white !important;
+}
+.nav-tabs > li > a {
+    margin: 0px !important;
+    color: #41af8b ;
+    border: 1px solid !important;
+    border-radius: 0 !important;
+}
+
+/* .nav-link{
+    color: grey;
+} */
